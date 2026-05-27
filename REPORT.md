@@ -68,7 +68,13 @@ Mô hình đạt kết quả khá tốt trên cả validation set và test set. 
 Chèn ảnh:
 
 - Learning curves
+
+<img width="400" height="350" alt="Lab5-baseline-confusion-matrix" src="https://github.com/user-attachments/assets/6701f743-64cf-4c7e-9249-2955999946e7" />
+
 - Confusion matrix
+
+<img width="800" height="444" alt="Lab5-baseline-curves" src="https://github.com/user-attachments/assets/545444b5-cbc3-43d3-a044-572dfac7084a" />
+
 
 ## 6. Phân tích lỗi
 
